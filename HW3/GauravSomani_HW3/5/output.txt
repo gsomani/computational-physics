@@ -1,0 +1,3 @@
+Relaxation  method :
+
+(x,y) = (2.0, 0.4)

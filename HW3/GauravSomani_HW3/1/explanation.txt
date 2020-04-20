@@ -1,0 +1,1 @@
+Factorial of 200 is around 1e375. Floating point gives infinity because double can store numbers upto about 1e308 and above it overflows. 

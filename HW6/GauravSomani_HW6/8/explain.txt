@@ -1,0 +1,8 @@
+Wave Equation:
+Lax-wendroff with viscosity seems to be the best method. It describes features of wave and also has less L1 error. Upwind is the second best method. Though Lax-Wendroff has less L1 error than upwind, but it does not describe features of the solution satisfactorily. Lax-Wendroff shows oscillations where there should not be any oscillation. So, Lax-Wendroff displays phase errors. Upwind shows amplitude errors but qualitatively describes the wave well and quantitavely better than Lax method. But upwind is only good for small values of time since it has larger errors compared to Lax-Wendroff and errors accumulate over time. For larger times, Lax-Wendroff is better than upwind.  
+
+Connvergence analysis:
+For small times, Lax-wenderoff (with artificial viscosity) has highest rate of convergence. For large times,Lax-wenderoff ( rate of conergence about 0.7) and Lax-wenderoff with artificial viscosity (rate of conergence about 0.8) have similar rate of convergence. L1 error in Lax-wenderoff, upwind and lax  are in increasing order. So, rate of convergence is in decreasing order for Lax-wenderoff, upwind (rate of conergence about 0.5-0.6) and lax (rate of conergence about 0.3-0.5). 
+
+Burger's equation:
+Values of qcon from 1 to 16 make it stable. But higher qcon makes the solution to smooth and is far from actual solution. Values of qcon from 1 to 4 seem acceptable. qcon = 2 seems to be the best choice.

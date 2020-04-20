@@ -1,0 +1,2 @@
+Note played by piano is 2 octaves above middle C.
+Note played by trumpet is 3 octaves above middle C.

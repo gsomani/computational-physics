@@ -1,0 +1,9 @@
+d) Initially, due to random initialisation of spins, there is very small magnestization. After few moves, some spins get flipped and it may lead to some net magnestisation. Since parallel spins are energetically favorable, spin type which is more in number grow on expense of other spin and almost complete system becomes of same spin. Due to low temperature, system does not fluctuate too much about its stable point. Magnetisation of system solely depends on initial configuraton and some initial moves. Because of low temperature, entropy does not play much role. Thermodynamically, free energy is mainly governed by internal energy in this case.
+Also, at low temperature, system remains in its ground state. This corresponds to magnetisaton of ferromagnetic material.
+
+e) Temperature affects how entropy affects the system. At low temperature, system remains primarily in ground state as it does not have enough energy to reach high energy states. So, the system remains in one orientation. At higher temperatures, due to higher available thermal energy, more number of high energy states are reachable and entropy plays an important role in determinig the state of system. Average magnetisation becomes less in magnitude. At T=1, system contains only one type of spin and is magnetised. At T=2, it is still magnetised but there are some spins of opposite sign (with respect to magnestisation) and there is some fluctuation. At T=3, system gets demagnestised and all spins fluctuate due to high thermal energy. This corresponds to demagnetisation of ferromagnetic material which means phase transition to paramagnetic material. 
+
+F = U - T*S
+
+Thermodynamically, change in F <= 0 for a spontaneous process. 
+Helmholtz free energy is internal energy minus entropy times temperature which explains why higher energy states are possible at higher temperature.

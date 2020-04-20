@@ -1,0 +1,5 @@
+(a)
+For a fixed point x, x  = rx(1-x). So, fixed point lies on curve x=(r-1)/r. For a fixed point, x takes a single value (a single point on the plot on vertical line at r) for that r. For limit cycle, x takes a finite number of values (usually 2,4 or 8 values) denoted by finite number of points on vertical line at r. For chaos at a particular r, there will be large number of points (number of points should always increase forming pseudo-continuous vertical line) on the vertical line at r.
+
+(b)
+r ≈ 3.57 is the edge of the chaos.

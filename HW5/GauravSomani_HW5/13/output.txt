@@ -1,0 +1,2 @@
+From plot,θ is between 3.0 and 3.5
+Required θ_0 = 3.447 for ξ* = 2 

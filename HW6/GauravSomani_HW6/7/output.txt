@@ -1,0 +1,2 @@
+Slope of L1-error plot is 2.2.
+Order of convergence is 2.

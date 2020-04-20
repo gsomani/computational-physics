@@ -1,0 +1,13 @@
+Fixed time step :
+h = 3.75E-04 year
+Computational time (fixed time-step) = 23.4 s
+Average drift in trajectory = 1427.6 km/year
+
+Adaptive time step :
+Minimum h = 4.5E-05 year, Mean h = 4.1E-02 year, Maximum h = 1.1 year
+Computational time (adaptive time-step) = 0.6 s
+Average drift in trajectory = 0.60 km/year
+Average drift in trajectory for adaptive time-step method is smaller compared to fixed time-step by a factor of 2.4E+03 
+Computational time taken by adaptive method is smaller by a factor of 38 as compared to fixed time-step method
+
+So, adaptive method is faster and more accurate compared to fixed time-step method.

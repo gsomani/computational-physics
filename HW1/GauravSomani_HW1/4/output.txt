@@ -1,0 +1,18 @@
+l₁ (in m) = 2e11
+v₁ (in m/s) = 2e4
+l₂ ≈ 2.0000E+11 m
+v₂ ≈ 2.0000E+04 m/s
+T ≈ 727.22 days
+e ≈ 0.0000 
+
+Orbit parameters for Earth :
+l₂ ≈ 1.5203E+11 m
+v₂ ≈ 2.9305E+04 m/s
+T ≈ 365.09 days
+e ≈ 0.0165 
+
+Orbit parameters for Halley's comet :
+l₂ ≈ 5.2849E+12 m
+v₂ ≈ 9.0622E+02 m/s
+T ≈ 27790.80 days
+e ≈ 0.9673

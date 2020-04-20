@@ -1,0 +1,1 @@
+Convergence test is performed at t=0.25 because for higher times, f becomes very high times numerical errors for small number arithmetic calculations make L1 richardson error for large n higher compared to lower n.

@@ -1,0 +1,5 @@
+At x=c, z=0.5  and c = a for peak of integrand to be at z=0.5
+Γ(1.5) = 0.886
+Γ(3) = 2.0
+Γ(6) = 120.0
+Γ(10) = 362880.0

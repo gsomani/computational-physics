@@ -1,0 +1,2 @@
+Area (hit-miss) = 1.454, Error = 0.007
+Area (mean value) = 1.457, Error = 0.004

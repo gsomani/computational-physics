@@ -1,0 +1,5 @@
+m ≈ 4.0882E-15 Vs
+c ≈ -1.7312 V
+h (calculated) ≈ 6.5493E-34 Js
+h ≈ 6.6261E-34 Js
+Error ≈ 1.158 %

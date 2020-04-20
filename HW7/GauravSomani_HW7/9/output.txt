@@ -1,0 +1,4 @@
+Number of dimers (cooling time constant = 128) = 577
+Number of dimers (cooling time constant = 1024) = 1084
+Number of dimers (cooling time constant = 8192) = 1142
+Number of dimers (cooling time constant = 65536) = 1174

@@ -1,0 +1,3 @@
+Randomly generated point : 
+θ = 0.920857 
+ϕ = 3.792530 

@@ -1,0 +1,3 @@
+Roots using 1st method are (-9.999894245993346e-07, -999999.999999)
+Roots using 2nd method are (-1.000000000001e-06, -1000010.5755125057)
+Roots using composite method are (-1.000000000001e-06, -999999.999999)

@@ -1,0 +1,2 @@
+a) x (by simulated annealing) = 1.6E-06
+b) x (by simulated annealing) = 15.96

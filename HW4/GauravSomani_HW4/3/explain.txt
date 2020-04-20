@@ -1,0 +1,1 @@
+Higher frequencies (frequencies above the note being played) are very small compared to note frequency in piano compared to trumpet. So, piano can produce better single(pure) note than trumpet. Its music is more close to sine wave.  

@@ -1,0 +1,1 @@
+Uncertainity for n=5 is 2.345208

@@ -1,0 +1,3 @@
+Probabilty (by Monte carlo) = 0.028
+Uniform distribution probability = 0.028
+Difference = 0.000

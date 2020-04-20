@@ -1,0 +1,16 @@
+Slope of L1-error plot at t = 0.5 is 0.56 for Lax
+Slope of L1-error plot at t = 0.5 is 0.60 for Upwind
+Slope of L1-error plot at t = 0.5 is 0.65 for Lax-Wendroff
+Slope of L1-error plot at t = 0.5 is 0.78 for Lax-Wendroff (with artificial viscosity)
+Slope of L1-error plot at t = 1.0 is 0.50 for Lax
+Slope of L1-error plot at t = 1.0 is 0.58 for Upwind
+Slope of L1-error plot at t = 1.0 is 0.66 for Lax-Wendroff
+Slope of L1-error plot at t = 1.0 is 0.81 for Lax-Wendroff (with artificial viscosity)
+Slope of L1-error plot at t = 2.0 is 0.38 for Lax
+Slope of L1-error plot at t = 2.0 is 0.54 for Upwind
+Slope of L1-error plot at t = 2.0 is 0.66 for Lax-Wendroff
+Slope of L1-error plot at t = 2.0 is 0.80 for Lax-Wendroff (with artificial viscosity)
+Slope of L1-error plot at t = 3.0 is 0.30 for Lax
+Slope of L1-error plot at t = 3.0 is 0.50 for Upwind
+Slope of L1-error plot at t = 3.0 is 0.72 for Lax-Wendroff
+Slope of L1-error plot at t = 3.0 is 0.80 for Lax-Wendroff (with artificial viscosity)

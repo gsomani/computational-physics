@@ -1,0 +1,30 @@
+Fixed point iteration without acceleration
+
+Initial guess, x = 1.000000
+iteration 1, x = 0.864665
+iteration 2, x = 0.822597
+iteration 3, x = 0.807025
+iteration 4, x = 0.800920
+iteration 5, x = 0.798475
+iteration 6, x = 0.797487
+iteration 7, x = 0.797086
+iteration 8, x = 0.796923
+iteration 9, x = 0.796857
+iteration 10, x = 0.796831
+iteration 11, x = 0.796820
+iteration 12, x = 0.796815
+iteration 13, x = 0.796813
+iteration 14, x = 0.796813
+iteration 15, x = 0.796812
+
+x = 0.796812 , iterations = 15
+
+
+Fixed point iteration with acceleration
+
+Initial guess, x = 1.000000
+iteration 1, x = 1.000000
+iteration 2, x = 0.796997
+iteration 3, x = 0.796832
+iteration 4, x = 0.796814
+x = 0.796812 , iterations = 4

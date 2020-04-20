@@ -1,0 +1,12 @@
+For Harmonic oscillator,
+Ground state energy = 138.021 eV
+E = 414.064 eV for n = 1 ; E_1 - E_0 = 276.043 eV
+E = 690.107 eV for n = 2 ; E_2 - E_1 = 276.043 eV
+
+
+For Anharmonic oscillator,
+Ground state energy = 205.302 eV
+E = 735.673 eV for n = 1 ; E_1 - E_0 = 530.371 eV
+E = 1443.534 eV for n = 2 ; E_2 - E_1 = 707.861 eV
+
+

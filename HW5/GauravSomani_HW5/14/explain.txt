@@ -1,0 +1,1 @@
+Implicit solution is stable and approaches monotonically towards analytic solutiob. Howeverm,implicit solution accuracy decreases with increasing time step size. It takes longer time to settle down to analytic solution for larger time step. 

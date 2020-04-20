@@ -1,0 +1,1 @@
+Maximum step size allowed for stable explicit forward euler scheme = 0.002

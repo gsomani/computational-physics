@@ -1,0 +1,7 @@
+δ = 1E-02 , Numerical derivative = 1.010000000 , Error = 1E-02
+δ = 1E-04 , Numerical derivative = 1.000100000 , Error = 1E-04
+δ = 1E-06 , Numerical derivative = 1.000001000 , Error = 1E-06
+δ = 1E-08 , Numerical derivative = 1.000000004 , Error = 4E-09
+δ = 1E-10 , Numerical derivative = 1.000000083 , Error = 8E-08
+δ = 1E-12 , Numerical derivative = 1.000088901 , Error = 9E-05
+δ = 1E-14 , Numerical derivative = 0.999200722 , Error = 8E-04
