@@ -10,7 +10,7 @@ M_earth=5.974e24
 R_earth=6.378e6
 
 def altitude(T):
-    r=(G*M_earth*T*T/(2*pi*pi))**(1/3)
+    r=(G*M_earth*T*T/(4*pi*pi))**(1/3)
     return r-R_earth
 
 def print_altitude(T):

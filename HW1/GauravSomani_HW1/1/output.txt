@@ -1,13 +1,9 @@
-(a)
-T (in seconds) = 3600
-Altitude for orbit period of 3600 seconds ≈ 1.9014E+04 m ≈ 19.01 km
-
 (b)
 Satellites oribiting once a day :
-Altitude for orbit period of 86400 seconds ≈ 4.6847E+07 m ≈ 46847.30 km
+Altitude for orbit period of 86400 seconds ≈ 3.5867E+07 m ≈ 35867.41 km
 
 Satellites oribiting once every 90 minutes :
-Altitude for orbit period of 5400 seconds ≈ 2.0045E+06 m ≈ 2004.46 km
+Altitude for orbit period of 5400 seconds ≈ 2.7524E+05 m ≈ 275.24 km
 
 Satellites oribiting once every 45 minutes :
 Not possible
@@ -16,6 +12,6 @@ Not possible
 24 hours is one solar day while 23.93 hours is one sidereal day. Solar day means time period between two consecutive events of facing the sun for a point on the earth. Sidereal day is the period of rotation of earth about its axis passing through center of earth. Due to simulaneous rotation and revolution of earth, after one sidereal day, a point on the earth which was facing the sun at the start of the day does not face sun. Earth needs to rotate for some more time for that point to face the sun. So, solar day is longer than earth's rotation period about its axis. But geostationary satellite needs to be pointing to a particular point on earth. So, it should rotate with that point. Hence, it should orbit once in sidereal day.
 
 Geosynchronous satellites:
-Altitude for orbit period of 86148 seconds ≈ 4.6744E+07 m ≈ 46743.76 km
+Altitude for orbit period of 86148 seconds ≈ 3.5785E+07 m ≈ 35785.23 km
 
-Difference in altitude is about 103.54 km. Geostationery satellite needs to be about 103.54 km lower than satellite with orbit period 24 hours.
+Difference in altitude is about 82.18 km. Geostationery satellite needs to be about 82.18 km lower than satellite with orbit period 24 hours.
